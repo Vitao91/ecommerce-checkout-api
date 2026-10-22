@@ -156,8 +156,9 @@ Projeto educacional desenvolvido como parte do desafio de Design Patterns da DIO
 
 Abaixo, uma captura de tela demonstrando a inicialização da API de checkout.
 
-<img width="1482" height="762" alt="Captura de tela 2026-10-22 193639" src="https://github.com/user-attachments/assets/11fdfefd-20f9-40c4-8b8f-56bdde185dcb" />
 <img width="1920" height="1020" alt="Captura de tela 2026-10-22 193629" src="https://github.com/user-attachments/assets/c3025fc4-9985-4d63-9369-cc18ccdd9ae9" />
+<img width="1482" height="762" alt="Captura de tela 2026-10-22 193639" src="https://github.com/user-attachments/assets/11fdfefd-20f9-40c4-8b8f-56bdde185dcb" />
 
+---
 
 ⭐ Obrigado por visitar este repositório! Sugestões e contribuições são bem-vindas.
